@@ -6,4 +6,4 @@ To use python version simply add python files into extracted Lizard.rar main fol
 There is a .yml file in python folder for conda virtual environment.
 
 version 0.1
-	bugfix: change to user flags in setting.ini were ignored
+	bugfix: change to user flags in setting.ini were ignored, fixed
